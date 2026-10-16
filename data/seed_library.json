@@ -1,0 +1,319 @@
+{
+  "acts": [
+    {
+      "title": "Punjab Land Revenue Act, 1887",
+      "category": "Revenue & land records",
+      "jurisdiction": "Punjab and Haryana; state amendments apply",
+      "summary": "Core revenue statute concerning revenue officers, records-of-rights, mutation, partition and related administration. Verify the applicable state's amended text and rules.",
+      "source": "https://revenueharyana.gov.in/acts-rules-manuals/",
+      "status": "Official portal reference; current consolidated text must be checked",
+      "pdf_url": "https://revenueharyana.gov.in/html/revenuedepartment/LrAct_Amended_2017.pdf",
+      "local_file": "Punjab_Land_Revenue_Act_1887.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Punjab Tenancy Act, 1887",
+      "category": "Tenancy",
+      "jurisdiction": "State-specific applicability and amendments must be checked",
+      "summary": "Relevant to certain agricultural tenancy questions. Not every owner/cultivator dispute is a tenancy matter.",
+      "source": "https://revenueharyana.gov.in/acts-rules-manuals/page/2/",
+      "status": "Official portal reference; verify current state text",
+      "pdf_url": "https://revenueharyana.gov.in/acts-rules-manuals/page/2/",
+      "local_file": "Punjab_Tenancy_Act_1887.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "East Punjab Holdings (Consolidation and Prevention of Fragmentation) Act, 1948",
+      "category": "Consolidation",
+      "jurisdiction": "Punjab and Haryana; state amendments apply",
+      "summary": "Relevant to consolidation schemes, repartition and certain disputes concerning consolidation proceedings.",
+      "source": "https://revenueharyana.gov.in/acts-rules-manuals/",
+      "status": "Official portal reference; verify current state text",
+      "pdf_url": "https://revenueharyana.gov.in/acts-rules-manuals/",
+      "local_file": "East_Punjab_Holdings_Consolidation_Act_1948.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Code of Civil Procedure, 1908",
+      "category": "Civil procedure",
+      "jurisdiction": "India",
+      "summary": "Procedure for civil suits, pleadings, interim injunctions, appeals and execution. Check the exact provision and local amendments/rules.",
+      "source": "https://www.indiacode.nic.in/indiacode/handle/123456789/2191?view_type=browse",
+      "status": "Official India Code portal; verify current text",
+      "pdf_url": "https://www.indiacode.nic.in/bitstream/123456789/2191/1/aA1908-05.pdf",
+      "local_file": "Code_of_Civil_Procedure_1908.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Specific Relief Act, 1963",
+      "category": "Civil remedies",
+      "jurisdiction": "India",
+      "summary": "Includes declaratory relief and injunctions. Remedy depends on pleadings, possession, title, limitation and facts.",
+      "source": "https://www.indiacode.nic.in/indiacode/handle/123456789/1583?view_type=browse",
+      "status": "Official India Code portal; verify current text",
+      "pdf_url": "https://www.indiacode.nic.in/bitstream/123456789/1583/7/A1963-47.pdf",
+      "local_file": "Specific_Relief_Act_1963.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Limitation Act, 1963",
+      "category": "Limitation",
+      "jurisdiction": "India",
+      "summary": "Limitation depends on relief, accrual, the applicable article, exclusions and facts. Never calculate a deadline from a general summary alone.",
+      "source": "https://www.indiacode.nic.in/indiacode/handle/123456789/1565?view_type=browse",
+      "status": "Official portal; article-specific review required",
+      "pdf_url": "https://www.indiacode.nic.in/bitstream/123456789/1565/5/A1963-36.pdf",
+      "local_file": "Limitation_Act_1963.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Transfer of Property Act, 1882",
+      "category": "Property transactions",
+      "jurisdiction": "India; applicable provisions and local law matter",
+      "summary": "Relevant to transfers such as sale, mortgage, lease and gifts, subject to transaction facts and registration/stamp requirements.",
+      "source": "https://www.indiacode.nic.in/handle/123456789/1362/simple-search?query=Transfer+of+Property+Act%2C+1882",
+      "status": "Official India Code portal; verify current text",
+      "pdf_url": "https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf",
+      "local_file": "Transfer_of_Property_Act_1882.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Registration Act, 1908",
+      "category": "Registration & documents",
+      "jurisdiction": "India; state amendments apply",
+      "summary": "Relevant to registration of instruments and effects of non-registration. Examine the exact instrument and state amendments.",
+      "source": "https://revenueharyana.gov.in/acts-rules-manuals/",
+      "status": "Official portal reference; verify current state text",
+      "pdf_url": "https://revenueharyana.gov.in/acts-rules-manuals/",
+      "local_file": "Registration_Act_1908.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Bharatiya Nyaya Sanhita, 2023 (BNS)",
+      "category": "Criminal law",
+      "jurisdiction": "India",
+      "summary": "Substantive criminal offences for matters governed by the new code. In force from 1 July 2024, subject to applicable notifications/exceptions and transition rules.",
+      "source": "https://www.indiacode.nic.in/indiacode/handle/123456789/20062?col=123456789%2F1362&view_type=search",
+      "status": "Official India Code record; check commencement and transition",
+      "pdf_url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/20062/1/a202345.pdf",
+      "local_file": "Bharatiya_Nyaya_Sanhita_2023.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS)",
+      "category": "Criminal procedure",
+      "jurisdiction": "India",
+      "summary": "Criminal procedure for matters governed by the new code. For older proceedings, check repeal, savings and transition provisions before using BNSS/CrPC references.",
+      "source": "https://www.indiacode.nic.in/indiacode/handle/123456789/20099?view_type=search",
+      "status": "Official India Code portal; verify current text",
+      "pdf_url": "https://www.indiacode.nic.in/bitstream/123456789/20099/1/eng.pdf",
+      "local_file": "Bharatiya_Nagarik_Suraksha_Sanhita_2023.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Bharatiya Sakshya Adhiniyam, 2023 (BSA)",
+      "category": "Evidence",
+      "jurisdiction": "India",
+      "summary": "Evidence law for proceedings governed by the new statute, including documentary and electronic records. Transition rules determine whether the earlier Evidence Act applies.",
+      "source": "https://www.indiacode.nic.in/indiacode/handle/123456789/20063?col=123456789%2F1362&view_type=search",
+      "status": "Official portal; verify applicability and current text",
+      "pdf_url": "https://www.indiacode.nic.in/indiacode/bitstream/123456789/20063/1/aa202347.pdf",
+      "local_file": "Bharatiya_Sakshya_Adhiniyam_2023.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Indian Evidence Act, 1872",
+      "category": "Evidence — legacy proceedings",
+      "jurisdiction": "India; applicability depends on transition rules",
+      "summary": "Retain as a reference for proceedings governed by the earlier law. Do not automatically substitute BSA section numbers for Evidence Act sections.",
+      "source": "https://www.indiacode.nic.in/handle/123456789/4218",
+      "status": "Legacy reference; check savings and transition rules",
+      "pdf_url": "https://www.indiacode.nic.in/bitstream/123456789/4218/1/THE-INDIAN-EVIDENCE-ACT-1872.pdf",
+      "local_file": "Indian_Evidence_Act_1872.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Hindu Succession Act, 1956",
+      "category": "Inheritance & succession",
+      "jurisdiction": "India; personal-law facts and amendments matter",
+      "summary": "May apply to inheritance, coparcenary and succession. Confirm personal law, family tree, property character, dates and relevant amendments.",
+      "source": "https://www.indiacode.nic.in/handle/123456789/1713",
+      "status": "Official India Code portal; fact-specific review required",
+      "pdf_url": "https://www.indiacode.nic.in/",
+      "local_file": "Hindu_Succession_Act_1956.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Indian Stamp Act, 1899 / applicable state stamp law",
+      "category": "Stamp duty & instruments",
+      "jurisdiction": "State-specific amendments and schedules apply",
+      "summary": "Stamp duty and admissibility consequences depend on instrument, date, state schedule, valuation and applicable amendments.",
+      "source": "https://revenueharyana.gov.in/acts-rules-manuals/",
+      "status": "Official portal reference; verify state-specific text",
+      "pdf_url": "https://revenueharyana.gov.in/acts-rules-manuals/",
+      "local_file": "Indian_Stamp_Act_1899.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Court Fees Act, 1870 / applicable state court-fee law",
+      "category": "Court fees",
+      "jurisdiction": "State amendments and local rules apply",
+      "summary": "Court fee depends on relief, valuation and state amendments. Confirm current schedules and relevant judgments.",
+      "source": "https://revenueharyana.gov.in/acts-rules-manuals/",
+      "status": "Official portal reference; verify state-specific text",
+      "pdf_url": "https://revenueharyana.gov.in/acts-rules-manuals/",
+      "local_file": "Court_Fees_Act_1870.pdf",
+      "source_note": "Official government source link. A local copy is available only after running download-bare-acts.ps1; confirm amendments and applicability."
+    },
+    {
+      "title": "Indian Penal Code, 1860 (legacy proceedings)",
+      "category": "Criminal law — legacy",
+      "jurisdiction": "India; applicability depends on offence date and transition rules",
+      "summary": "Legacy substantive criminal code reference. Do not assume IPC applies to every matter after 1 July 2024; review repeal, savings and transitional provisions.",
+      "source": "https://www.indiacode.nic.in/handle/123456789/2263",
+      "status": "Legacy reference; confirm temporal applicability",
+      "pdf_url": "https://www.indiacode.nic.in/bitstream/123456789/2263/1/A1860-45.pdf",
+      "local_file": "Indian_Penal_Code_1860.pdf",
+      "source_note": "Official India Code source; check current legal applicability."
+    },
+    {
+      "title": "Code of Criminal Procedure, 1973 (legacy proceedings)",
+      "category": "Criminal procedure — legacy",
+      "jurisdiction": "India; applicability depends on proceeding date and transition rules",
+      "summary": "Legacy criminal procedure reference. Review BNSS repeal, savings and transitional provisions before relying on CrPC.",
+      "source": "https://www.indiacode.nic.in/handle/123456789/1521",
+      "status": "Legacy reference; confirm temporal applicability",
+      "pdf_url": "https://www.indiacode.nic.in/",
+      "local_file": "Code_of_Criminal_Procedure_1973.pdf",
+      "source_note": "Official India Code portal; direct PDF needs confirmation."
+    }
+  ],
+  "cases": [
+    {
+      "title": "Anathula Sudhakar v. P. Buchi Reddy (Dead) by LRs",
+      "citation": "(2008) 4 SCC 594",
+      "court": "Supreme Court of India",
+      "year": "2008",
+      "topics": "injunction; title; possession; agricultural land",
+      "principle": "Explains when an injunction simpliciter may suffice and when a cloud over title or lack of possession may require declaration and/or possession. Discusses proof of possession of agricultural land by actual use and cultivation.",
+      "caution": "Apply to the pleadings, possession and relief in the specific case; it does not mean every land dispute requires a declaration.",
+      "url": "https://indiankanoon.org/doc/540361/"
+    },
+    {
+      "title": "Jitendra Singh v. State of Madhya Pradesh",
+      "citation": "2021 SCC OnLine SC 802 (verify preferred report citation)",
+      "court": "Supreme Court of India",
+      "year": "2021",
+      "topics": "mutation; revenue entries; title",
+      "principle": "Reiterates that mutation entries are for fiscal purposes and do not themselves confer title; disputed ownership ordinarily requires adjudication by a competent court.",
+      "caution": "Verify the full judgment, citation and subsequent treatment before citing in pleadings.",
+      "url": "https://indiankanoon.org/search/?formInput=Jitendra%20Singh%20State%20of%20Madhya%20Pradesh%20mutation%202021"
+    },
+    {
+      "title": "Balwant Singh v. Daulat Singh",
+      "citation": "(1997) 7 SCC 137",
+      "court": "Supreme Court of India",
+      "year": "1997",
+      "topics": "mutation; inheritance; revenue entries",
+      "principle": "A mutation entry by itself does not extinguish or create title; revenue entries generally serve a fiscal purpose.",
+      "caution": "Read alongside the relevant succession facts and current state revenue law.",
+      "url": "https://indiankanoon.org/search/?formInput=Balwant%20Singh%20v%20Daulat%20Singh%201997"
+    },
+    {
+      "title": "Suraj Bhan v. Financial Commissioner",
+      "citation": "(2007) 6 SCC 186",
+      "court": "Supreme Court of India",
+      "year": "2007",
+      "topics": "revenue records; mutation; title",
+      "principle": "Revenue entries do not, by themselves, decide title to immovable property.",
+      "caution": "Confirm the precise holding and its relevance to the proceeding before quoting it.",
+      "url": "https://indiankanoon.org/search/?formInput=Suraj%20Bhan%20Financial%20Commissioner%202007"
+    },
+    {
+      "title": "Kale v. Deputy Director of Consolidation",
+      "citation": "(1976) 3 SCC 119",
+      "court": "Supreme Court of India",
+      "year": "1976",
+      "topics": "family settlement; partition; property",
+      "principle": "Leading authority on family arrangements and when a family settlement may be recognized. Registration depends in part on whether the writing creates/declares rights or merely records a prior arrangement.",
+      "caution": "Registration and stamp consequences are instrument- and state-specific; examine the exact document.",
+      "url": "https://indiankanoon.org/search/?formInput=Kale%20Deputy%20Director%20of%20Consolidation%201976"
+    },
+    {
+      "title": "Suraj Lamp & Industries (P) Ltd. v. State of Haryana",
+      "citation": "(2012) 1 SCC 656",
+      "court": "Supreme Court of India",
+      "year": "2011",
+      "topics": "sale deed; transfer; property title",
+      "principle": "Discusses limits of using agreement/GPA/will arrangements as substitutes for a legally effective conveyance of immovable property.",
+      "caution": "Read the full judgment and later law; distinguish contractual rights from transfer of title.",
+      "url": "https://indiankanoon.org/search/?formInput=Suraj%20Lamp%20Industries%20State%20of%20Haryana%202011"
+    },
+    {
+      "title": "Sawarni v. Inder Kaur",
+      "citation": "(1996) 6 SCC 223",
+      "court": "Supreme Court of India",
+      "year": "1996",
+      "topics": "mutation; inheritance; title",
+      "principle": "Mutation does not confer title or transfer title; it is principally for fiscal purposes.",
+      "caution": "Check subsequent statutory amendments and exact facts before relying on it.",
+      "url": "https://indiankanoon.org/search/?formInput=Sawarni%20v%20Inder%20Kaur%201996"
+    }
+  ],
+  "guides": [
+    {
+      "title": "Threatened forcible dispossession",
+      "category": "Possession & injunction",
+      "when": "A co-sharer or third party threatens to enter agricultural land, remove a crop or disturb possession.",
+      "checklist": "Record date, time, exact words and witnesses. Preserve messages/photos/video lawfully. Collect current and prior jamabandi, khasra girdawari, crop/possession evidence, site map and prior complaints. Identify whether the threatener claims a share or title, and note pending partition or court proceedings.",
+      "research": "Consider civil interim/permanent injunction and, where facts disclose an offence, a police complaint. Check competent forum, possession, co-sharer status, urgency, pleadings and exact relief. A criminal complaint does not decide civil title.",
+      "cases": "Anathula Sudhakar v. P. Buchi Reddy (2008) 4 SCC 594",
+      "warning": "A co-sharer's rights and possession can materially change the analysis. Do not treat every entry by a co-sharer as criminal trespass without checking facts and law."
+    },
+    {
+      "title": "Mutation challenged as incorrect",
+      "category": "Mutation & inheritance",
+      "when": "A mutation is sanctioned on disputed inheritance, exchange, sale, gift, will or family arrangement.",
+      "checklist": "Obtain certified mutation order and complete file; mutation application and notices; jamabandi before/after; relevant deed/will; death certificates and family tree; service records; objections and appeal/revision history. Verify limitation only after identifying the governing provision.",
+      "research": "Separate the revenue-record correction route from a civil title/succession dispute. Identify statutory appeal/revision forum and whether civil adjudication of title is needed.",
+      "cases": "Jitendra Singh v. State of Madhya Pradesh; Balwant Singh v. Daulat Singh; Suraj Bhan v. Financial Commissioner",
+      "warning": "Mutation alone generally does not settle title. Verify state-specific revenue procedure and limitation before filing."
+    },
+    {
+      "title": "Partition of joint agricultural land",
+      "category": "Partition & co-sharers",
+      "when": "A co-sharer seeks division of joint holdings or disputes mode of partition, shares or forum.",
+      "checklist": "Collect current and historical jamabandi, khewat/khatauni, khasra numbers and area; establish recorded shares and source of title; list all co-sharers/legal representatives; obtain prior partition applications/orders, tatima/shajra and consolidation records; note possession and exchanges/family settlements.",
+      "research": "Determine whether the matter is partition of an estate/holding under revenue law or requires civil adjudication of title/share first. Check state amendments, forum, appeal route and consolidation restrictions.",
+      "cases": "Research state-specific Punjab and Haryana High Court authorities for the exact statute, holding and procedural stage.",
+      "warning": "Do not assume all co-owner disputes belong in the same forum; title disputes and revenue partition powers must be analysed separately."
+    },
+    {
+      "title": "Proving long-standing possession",
+      "category": "Evidence & possession",
+      "when": "Parties dispute who cultivated or possessed the land over multiple crop seasons.",
+      "checklist": "Collect certified khasra girdawari/crop entries, jamabandi, irrigation/electricity or input records where relevant, crop sale receipts, dated photographs with context, independent witnesses, prior proceedings and admissions. Preserve originals and identify official record custodians.",
+      "research": "Map each factual assertion to admissible evidence. Check applicable evidence statute, certified-copy rules, burden of proof and presumptions for the particular record. Revenue entries are relevant but do not automatically prove title.",
+      "cases": "Anathula Sudhakar v. P. Buchi Reddy (2008) 4 SCC 594",
+      "warning": "Evidence of cultivation may support possession but does not by itself necessarily prove ownership. Never alter or retrospectively create records."
+    },
+    {
+      "title": "Suspected forged deed or false record",
+      "category": "Documents & criminal law",
+      "when": "A party suspects a forged deed, fabricated signature, false mutation supporting document or altered record.",
+      "checklist": "Secure certified copies from registering/revenue authority; preserve the original where available; record document number/date/execution/registration details and custody; compare admitted signatures/specimens through lawful process; note who produced or relied on the document; preserve electronic source data without editing.",
+      "research": "Assess civil remedies to challenge the instrument/entry and separate criminal complaint options. Identify date of conduct and applicable BNS/IPC and BNSS/CrPC regime under transition provisions. Consider expert opinion where appropriate.",
+      "cases": "Research document-specific Supreme Court and Punjab and Haryana High Court authorities after identifying the alleged act and procedural stage.",
+      "warning": "Do not publicly accuse a person of forgery without evidence. Offence sections depend on precise conduct, intent, document and applicable temporal law."
+    },
+    {
+      "title": "Inheritance and succession dispute",
+      "category": "Inheritance & family property",
+      "when": "Land devolves after death and heirs disagree about shares, a will, coparcenary status or family arrangement.",
+      "checklist": "Prepare family tree with dates of birth/death; obtain death certificates, original will and witnesses if any, registered instruments, earlier jamabandis, mutation file, and records establishing property character and family relationships where relevant.",
+      "research": "Identify applicable personal law, whether property is coparcenary or separate property, dates relevant to amendments, proof of will, limitation and appropriate civil/revenue forum.",
+      "cases": "Kale v. Deputy Director of Consolidation (1976) 3 SCC 119 may be relevant to family settlements; identify more specific succession precedents for the facts.",
+      "warning": "Do not calculate shares from family relationships alone without confirming personal law, property character and relevant dates."
+    }
+  ]
+}
